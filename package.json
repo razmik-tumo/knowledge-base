@@ -1,0 +1,19 @@
+{
+  "name": "knowledge-base",
+  "version": "0.0.1",
+  "description": "TUMO Knowledge Base",
+  "main": "index.js",
+  "authors": {
+    "name": "Razmik",
+    "email": "razmik.bortotian@tumo.org"
+  },
+  "repository": "/knowledge-base",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
